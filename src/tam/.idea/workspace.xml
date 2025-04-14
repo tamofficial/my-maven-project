@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25453168-3b8d-472a-a12f-87b684578366" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../PR2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/PR2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/four/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/four/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/ll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/one/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/one/Sortirovka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/one/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/three/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/three/MergeSortStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/three/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/two/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/two/SortingStudentsByGPA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad13/two/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad14/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad14/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad14/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad14/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad15/FilesApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad15/FilesApp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad15/FilesApp3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/src/zad15/FilesApp4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/praktika.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/zad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/zad3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/zad4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/zad5.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2vjfdePNumvC0pgnJ6dSeb4z6u3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25453168-3b8d-472a-a12f-87b684578366" name="Changes" comment="" />
+      <created>1744663494241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744663494241</updated>
+    </task>
+    <servers />
+  </component>
+</project>
